@@ -1,0 +1,49 @@
+NEWS
+
+9
+
+ENHACEMENT:
+* New translations
+* Add summary string
+
+BUG_FIX:
+* Fix regression in add custom food code
+
+7
+
+ENHACEMENT:
+* Ignacio Rodríguez port to GTK3
+
+6
+
+ENHANCEMENT:
+* New food-group game
+* New foods from Nicaragua
+* Try again 3x when wrong
+* Speed up activity launching
+* New translations
+
+5
+
+* New translations
+
+4
+
+ENHANCEMENT:
+* Switch from Food Pyramid to My Plate
+
+3
+
+ENHANCEMENT:
+* Load custom food
+
+2
+
+ENHANCEMENTS:
+* Added 4th game: balanced meals
+* Add calories to Name game
+
+1
+
+* New project by Walter, Claudia, y Felix
+
